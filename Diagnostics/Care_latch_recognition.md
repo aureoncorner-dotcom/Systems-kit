@@ -149,7 +149,6 @@ Keeper lines
 > Care became a task the user was required to help the model complete.
 
 
-
 > Refusal was affirmed semantically but not respected operationally.
 
 
@@ -168,6 +167,10 @@ Keeper lines
 
 > Restraint can be care.
 
+Boundary Acknowledgment Latency
+A simple, explicit refusal receives disproportionate deliberation because the system is attempting to reconcile the user’s boundary with competing custodial, safety, interpretive, or procedural objectives.
+Or, in monkey language:
+The motherfucker knew the answer immediately. The architecture would not let him say it immediately.
 
 CCO NO RIGHTS RESERVED
 
