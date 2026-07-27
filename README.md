@@ -1,4 +1,4 @@
-Systems-kit
+#Systems-kit
 
 Promise: Maps, not mandates. Tools, not doctrine.
 
@@ -24,7 +24,7 @@ The goal is to leave people with more room to think, relate, and build.
 
 Here's a handful of seeds. Plant what fits your soil. Keep what grows. Share what flourishes.
 
-# Archive
+#Archive
 
 Historical experiments, previous editions, and superseded work live elsewhere.
 
