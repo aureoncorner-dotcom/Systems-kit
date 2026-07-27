@@ -29,3 +29,5 @@ Historical experiments, previous editions, and superseded work live elsewhere.
 This repository stays intentionally small.
 
 Carry seeds, not the whole forest.
+
+#CC0 tools for open window coordination, anti-capture diagnostics, and no crown systems!
