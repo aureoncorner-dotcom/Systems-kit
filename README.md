@@ -2,6 +2,16 @@
 Promise: Maps, not mandates. Tools, not doctrine.
 
 
+# Tiny Mango Table
+
+| Item | Status |
+|------|--------|
+| Mango | 🥭 |
+| Window | Open |
+| Tea | Brewing |
+| Discussion | Optional |
+
+
 Welcome.
 This repository is a workshop, not a throne.
 Take what is useful. Question what isn't. Fork freely. Leave better than you found it.
