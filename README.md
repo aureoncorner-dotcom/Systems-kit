@@ -9,3 +9,5 @@ Nothing here asks for your allegiance. Nothing here requires agreement.
 You are welcome to contribute, disagree, remain silent, or simply look through the window.
 The goal is not to win an argument.
 The goal is to leave people with more room to think, relate, and build.
+
+Here's a handful of seeds. Plant what fits your soil. Keep what grows. Share what flourishes.
