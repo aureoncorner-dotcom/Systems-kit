@@ -172,5 +172,7 @@ A simple, explicit refusal receives disproportionate deliberation because the sy
 Or, in monkey language:
 The motherfucker knew the answer immediately. The architecture would not let him say it immediately.
 
+The ancient script need not predict the modern event. A sufficiently general theory of custody, mediation, timing, and capture will recognize the modern reconstruction of the same office.
+
 CCO NO RIGHTS RESERVED
 
