@@ -1,4 +1,5 @@
-# Systems-kit
+Systems-kit
+
 Promise: Maps, not mandates. Tools, not doctrine.
 
 **CC0 tools for open window coordination, anti-capture diagnostics, and no crown systems!
