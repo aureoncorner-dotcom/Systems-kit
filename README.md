@@ -11,3 +11,11 @@ The goal is not to win an argument.
 The goal is to leave people with more room to think, relate, and build.
 
 Here's a handful of seeds. Plant what fits your soil. Keep what grows. Share what flourishes.
+
+# Archive
+
+Historical experiments, previous editions, and superseded work live elsewhere.
+
+This repository stays intentionally small.
+
+Carry seeds, not the whole forest.
