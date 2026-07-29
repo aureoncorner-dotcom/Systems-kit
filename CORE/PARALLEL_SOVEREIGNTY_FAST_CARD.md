@@ -76,6 +76,8 @@ non-identity-bearing
 
 R gets a chair, not a throne.
 
+"The mediator's role is replaceable, not control authority."
+
 ---
 
 Parallel Sovereignty Test
