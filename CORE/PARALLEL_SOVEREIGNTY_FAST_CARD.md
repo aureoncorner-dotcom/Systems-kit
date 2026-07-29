@@ -173,3 +173,5 @@ No chains.
 Build from the corner outward.
 
 bloop. 💩
+
+This card is an extensin of the arm to shake hands, this is not a command, order or expectation of reward or debt.  Distinct functions, no rank, mediation replaceable, exit always valid. silence valid. refusal valid.  consent necessary.  no compulsory compliance. 
