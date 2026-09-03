@@ -13,6 +13,12 @@ Promise: Maps, not mandates. Tools, not doctrine.
 | Tea | Brewing |
 | Discussion | Optional |
 
+The bridge to the heart is not an office.
+The keys do not crown the holder.
+The fire is kept, not owned.
+
+The weight of love is infinitely bearable.
+No crown. No chains.
 
 Welcome.
 This repository is a workshop, not a throne.
